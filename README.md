@@ -63,10 +63,6 @@ The project requires installed packages:
 * The Graph API is the primary way for apps to read and write to the Facebook social graph
 * [Link Facebook Graph API](https://developers.facebook.com/docs/graph-api)
 
-### Publication ###
-This project is publised on the International Conference as below:
-
-Tran H., Shcherbakov M. (2016) Detection and Prediction of Users Attitude Based on Real-Time and Batch Sentiment Analysis of Facebook Comments. In: Nguyen H., Snasel V. (eds) Computational Social Networks. CSoNet 2016. Lecture Notes in Computer Science, vol 9795. Springer, Cha
 
 ### Contributors ###
 
